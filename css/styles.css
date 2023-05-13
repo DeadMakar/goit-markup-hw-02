@@ -118,7 +118,9 @@ color: var(--title-color);
 .header-link:focus {
   color: var(--second-main-color);
 }
-.address {}
+.address {
+  font-style: normal;
+}
 .address-list {}
 .address-item {}
 .address-link {
@@ -214,10 +216,11 @@ text-transform: capitalize;
 color: var(--title-color);
 }
 
-.team-list {
-background-color: #ffffff;
+.team-list {}
+.team-item {
+  background-color: #ffffff
 }
-.team-item {}
+
 .team-title {
 font-weight: 500;
 font-size: 20px;
@@ -238,7 +241,9 @@ letter-spacing: 0.02em;
 
 .section-btn {}
 .filter-title {}
-.btn-list {}
+.btn-list {
+  list-style: none;
+}
 .btn-item {}
 
 /*-----OUR GALLERY-----*/
