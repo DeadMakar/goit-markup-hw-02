@@ -104,35 +104,33 @@ body {
 .nav-item {
 }
 .header-link {
-  font-family: inherit
-    ";
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: var(--tipical-line-height);
-letter-spacing: 0.02em;
-color: var(--title-color);
+  font-weight: 500;
+  line-height: var(--tipical-line-height);
+  letter-spacing: 0.02em;
+  color: var(--title-color);
 }
 
-.header-link:hover, 
+.header-link:hover,
 .header-link:focus {
   color: var(--second-main-color);
 }
 .address {
   font-style: normal;
 }
-.address-list {}
-.address-item {}
-.address-link {
-font-family: inherit;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: var(--tipical-line-height);
-letter-spacing: 0.02em;
-color: inherit;
+.address-list {
 }
-.address-link:hover, 
+.address-item {
+}
+.address-link {
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: var(--tipical-line-height);
+  letter-spacing: 0.02em;
+  color: inherit;
+}
+.address-link:hover,
 .address-link:focus {
   color: var(--second-main-color);
 }
@@ -144,10 +142,9 @@ color: inherit;
 }
 
 .footer-text {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: var(--white-color);
+  line-height: var(--tipical-line-height);
+  letter-spacing: 0.02em;
+  color: var(--white-color);
 }
 
 /*-----HERO-----*/
@@ -157,114 +154,119 @@ color: var(--white-color);
 }
 
 .headline {
-font-size: 56px;
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 
 /*-----OUR PRINCIPLES AND PRIORITIES-----*/
 
-.section-principles {}
-.principles-title {}
-.visually-hidden {}
-.principles-list {}
-.principles-item {}
+.section-principles {
+}
+.principles-title {
+}
+.visually-hidden {
+}
+.principles-list {
+}
+.principles-item {
+}
 .page-subtitle {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: var(--title-color);
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  color: var(--title-color);
 }
 
 .principles-text {
-font-size: 16px;
-line-height: var(--tipical-line-height);
-letter-spacing: 0.02em;
+  line-height: var(--tipical-line-height);
+  letter-spacing: 0.02em;
 }
 
 /*-----OUR PRODUCTS-----*/
 
-.product-section {}
-.body-title {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: var(--title-color);
+.product-section {
 }
-.product-list {}
-.product-item {}
+.body-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--title-color);
+}
+.product-list {
+}
+.product-item {
+}
 
 /*-----OUR TEAM-----*/
 
 .team-section {
-background: var(--white-color);
+  background: var(--white-color);
 }
 
 .body-title {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: var(--title-color);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--title-color);
 }
 
-.team-list {}
+.team-list {
+}
 .team-item {
-  background-color: #ffffff
 }
 
 .team-title {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-text-align: center;
-letter-spacing: 0.02em;
-color: var(--title-color);
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--title-color);
 }
 
 .team-text {
-font-size: 16px;
-line-height: var(--tipical-line-height);
-text-align: center;
-letter-spacing: 0.02em;
+  line-height: var(--tipical-line-height);
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 
 /*-----MENU BUTTON-----*/
 
-.section-btn {}
-.filter-title {}
+.section-btn {
+}
+.filter-title {
+}
 .btn-list {
   list-style: none;
 }
-.btn-item {}
+.btn-item {
+}
 
 /*-----OUR GALLERY-----*/
 
-.gallery-list {}
-.gallery-item {}
+.gallery-list {
+}
+.gallery-item {
+}
 .gallery-link {
-font-family: inherit";
-  font-style: normal;
 }
 
 .gallery-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--title-color);
 }
 
 .gallery-text {
-  font-size: 16px;
   line-height: var(--tipical-line-height);
   letter-spacing: 0.02em;
   color: #434455;
