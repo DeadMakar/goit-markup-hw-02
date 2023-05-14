@@ -176,6 +176,7 @@ body {
 .page-subtitle {
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2px;
   letter-spacing: 0.02em;
   color: var(--title-color);
 }
@@ -220,6 +221,7 @@ body {
 }
 
 .team-list {
+  background-color: #ffffff;
 }
 .team-item {
 }
@@ -228,6 +230,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   text-align: center;
+  line-height: 1.2px;
   letter-spacing: 0.02em;
   color: var(--title-color);
 }
@@ -262,6 +265,7 @@ body {
 .gallery-title {
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2px;
   letter-spacing: 0.02em;
   color: var(--title-color);
 }
